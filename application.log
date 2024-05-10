@@ -1,0 +1,4 @@
+2024-05-10T10:22:00.142+07:00  WARN 13248 --- [belajar-spring-logging] [main] r.belajarspringlogging.LoggingTest       : ini warning
+2024-05-10T10:22:00.153+07:00 ERROR 13248 --- [belajar-spring-logging] [main] r.belajarspringlogging.LoggingTest       : ini error
+2024-05-10T10:25:59.040+07:00  WARN 13776 --- [belajar-spring-logging] [main] r.belajarspringlogging.LoggingTest       : ini warning
+2024-05-10T10:25:59.042+07:00 ERROR 13776 --- [belajar-spring-logging] [main] r.belajarspringlogging.LoggingTest       : ini error
